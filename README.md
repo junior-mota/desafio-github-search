@@ -5,3 +5,4 @@ Criar um App Android simples que armazene um usuário do GitHub (informado em um
 
 ![image](https://user-images.githubusercontent.com/5827265/188474294-4472bcc0-24ee-4ccd-80a8-7cee0372e7fa.png)
 
+![App GitHubSearch](https://github.com/junior-mota/desafio-github-search/assets/143447537/e5ee706a-280f-4311-ad9c-4243c522fc5f)
